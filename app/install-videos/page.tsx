@@ -16,7 +16,7 @@ const installVideos = [
     difficulty: 'Beginner',
     views: '2.1M',
     rating: 4.9,
-    thumbnail: 'https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=600',
+    thumbnail: 'https://pin.it/4JieCe6bG',
     instructor: 'Maya Johnson',
     description: 'Step-by-step guide to installing your first HD lace front wig with professional results.',
     tags: ['HD Lace', 'Beginner', 'Lace Front']
