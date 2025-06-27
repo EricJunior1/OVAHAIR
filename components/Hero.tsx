@@ -91,7 +91,7 @@ export function Hero() {
                   className="w-full h-full object-cover"
                   poster="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800"
                 >
-                  <source src="/hero-video.mp4" type="video/mp4" />
+                  <source src="https://pin.it/50LxsVkIG" type="video/mp4" />
                   <Image
                     src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800"
                     alt="Beautiful woman with luxury wig"
